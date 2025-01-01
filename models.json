@@ -1,0 +1,68 @@
+{
+    "elonmusk": {
+        "name": "ایلان ماسک",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/themahdihabibi/RVCModels/resolve/main/elonmusk.zip",
+        "pitch": 0
+    },
+    "stevejobs": {
+        "name": "استیو جابز",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/fazemasta/steve-jobs/resolve/main/stevejobs.zip",
+        "pitch": 0
+    },
+    "trump": {
+        "name": "دونالد ترامپ",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/0x3e9/0x3e9_RVC_models/resolve/main/trump.zip",
+        "pitch": 0
+    },
+    "obama": {
+        "name": "باراک اوباما",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/0x3e9/0x3e9_RVC_models/resolve/main/obama.zip",
+        "pitch": 0
+    },
+    "chavoshi": {
+        "name": "محسن چاوشی",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/themahdihabibi/RVCModels/resolve/main/chavoshi.zip?download=true",
+        "pitch": -3
+    },
+    "poorang": {
+        "name": "داریوش فرضیایی(پورنگ)",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/themahdihabibi/RVCModels/resolve/main/poorang.zip?download=true",
+        "pitch": 0
+    },
+    "jomung": {
+        "name": "علیرضا باشکندی",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/themahdihabibi/RVCModels/resolve/main/jomung.zip?download=true",
+        "pitch": 0
+    },
+    "nasertahmasb": {
+        "name": "ناصر طهماسب",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/themahdihabibi/RVCModels/resolve/main/nasertahmasb.zip?download=true",
+        "pitch": 0
+    },
+    "medghalchi": {
+        "name": "نصراله مدقالچی",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/themahdihabibi/RVCModels/resolve/main/medghalchi_e200_s9200.zip?download=true",
+        "pitch": -3
+    },
+    "yakideh": {
+        "name": "کیکاووس یاکیده",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/themahdihabibi/RVCModels/resolve/main/yakideh.zip?download=true",
+        "pitch": -5
+    },
+    "mamdoh": {
+        "name": "ناصر ممدوح",
+        "type": "CUSTOM",
+        "url": "https://huggingface.co/themahdihabibi/RVCModels/resolve/main/nasermamdoh_e200_s7400.zip?download=true",
+        "pitch": 0
+    }
+}
